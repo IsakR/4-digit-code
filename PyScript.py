@@ -13,3 +13,9 @@ def rand_num(*args):
 
 rand_num()
 
+def RandomNavn():
+    name = "abcdef"
+    nameN = ""
+    for i in range(5):
+        nameN = nameN+ name[math.floor(random.random()*10)]
+        RandomNavn.write("kn" "EmptyTextBox", print("test"))
