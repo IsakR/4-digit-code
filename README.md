@@ -1,4 +1,4 @@
 # 4-digit-code
-Code Generator
+4 digit code Generator
 
-Using Pyscript and Bootstrap
+Using the new Pyscript and Bootstrap
