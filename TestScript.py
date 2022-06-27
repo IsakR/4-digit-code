@@ -1,4 +1,3 @@
-#script by Fauske
 import random
 import math
 
@@ -10,7 +9,6 @@ def randomnum(*args):
         four_digits = four_digits+ num[math.floor(random.random()*10)]
     PyScript.write("thebuttonid", "New number")
     
-
 
 randomnum()
 
