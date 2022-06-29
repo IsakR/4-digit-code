@@ -10,4 +10,3 @@ def randomnum(*args):
     console.log(four_digits) 
     document.getElementById("PrintedNumber").innerHTML = four_digits
 randomnum()
-
