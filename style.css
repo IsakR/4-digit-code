@@ -23,3 +23,9 @@ body{
     
 }
 
+.PNumb{
+        color: white;
+    padding-top: 0px;
+    font-size: 50px;
+    text-align: center;
+}

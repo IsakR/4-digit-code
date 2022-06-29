@@ -1,21 +1,13 @@
-#script by Fauske
 import random
 import math
 
-
-def rand_num(*args):
+def randomnum(*args):
     num = "145689876543"
     four_digits = ""
     for i in range(4):
         four_digits = four_digits+ num[math.floor(random.random()*10)]
-    PyScript.write("thebuttonid", "New number", print(four_digits))
+    PyScript.write("thebuttonid", "New number")
+    console.log(four_digits) 
+    document.getElementById("demo").innerHTML = four_digits
+randomnum()
 
-
-rand_num()
-
-def RandomNavn():
-    name = "abcdef"
-    nameN = ""
-    for i in range(5):
-        nameN = nameN+ name[math.floor(random.random()*10)]
-        RandomNavn.write("kn" "EmptyTextBox", print("test"))
