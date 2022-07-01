@@ -31,7 +31,14 @@ body{
 }
 
 
-.CopyB {
+.CopyB{
     text-align: center;
     margin-top: 30px;
+}
+
+.V{
+    color: white;
+    font-size: 20px;
+    text-align: right;
+
 }

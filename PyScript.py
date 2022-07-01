@@ -1,6 +1,7 @@
 import random
 import math
 
+
 def randomnum(*args):
     num = "145689876543"
     four_digits = ""
@@ -10,7 +11,6 @@ def randomnum(*args):
     console.log(four_digits) 
     document.getElementById("PrintedNumber").innerHTML = four_digits
 randomnum()
-
 
 
 
