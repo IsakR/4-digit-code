@@ -10,8 +10,6 @@ def randomnum(*args):
     PyScript.write("thebuttonid", "New number")
     console.log(four_digits) 
     document.getElementById("PrintedNumber").innerHTML = four_digits
+
+
 randomnum()
-
-
-
-
