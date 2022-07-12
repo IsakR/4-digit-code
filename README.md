@@ -7,4 +7,4 @@ https://isakr.github.io/4-digit-code/
 
 OR
 
-4-digit.code.ga
+www.4-digit.code.ga
