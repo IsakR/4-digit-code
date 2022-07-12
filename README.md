@@ -1,6 +1,7 @@
 # 4-digit-code
 Simple 4 digit code Generator
 
-Using the new Pyscript and Bootstrap as framework
+Using the new Pyscript!
+Bootstrap as framework
 
-https://4-digit-code.ga/
+https://4-digit-code.ga
